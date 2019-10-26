@@ -1,0 +1,30 @@
+For Kailas 
+https://gallery.azure.ai/Experiment/Retail-Forecasting-Step-1-of-6-data-preprocessing-5
+https://gallery.azure.ai/Solution/Demand-Forecasting-and-Price-Optimization
+https://gallery.azure.ai/Experiment/Retail-Forecasting-Step-1-of-6-data-preprocessing-5
+
+For MahaLakshmi
+https://gallery.azure.ai/Experiment/Human-Resources-Analytics-Why-employees-are-leaving
+
+
+For Hari
+https://gallery.azure.ai/Experiment/Customer-Churn-Model-1
+https://gallery.azure.ai/Experiment/Telco-Customer-Churn-Retraining-Exp-1
+
+For Cejoy : 
+https://gallery.azure.ai/Experiment/Predicting-Australian-Football-Games-AFL-Footy-1
+
+https://gallery.azure.ai/Experiment/Goals-Prediction-YFS-Workshop
+
+For Sanjay/Babita: 
+https://gallery.azure.ai/Experiment/Binary-Classification-Flight-delay-prediction-3
+https://gallery.azure.ai/Experiment/Modeling-Price-Elasticity-Part-3-Price-Elasticity-with-Combo-and-External-Factors-1
+https://gallery.azure.ai/Experiment/Regression-Resale-Price-Prediction-2
+
+For Kanya : 
+https://gallery.azure.ai/Experiment/Employee-Retention-Predictor-Sri-Kandimalla
+
+For Mohammed Hasseel
+https://gallery.azure.ai/Experiment/Text-Classification-Compare-Built-in-Text-Analytics-modules-vs-Custom-R-Script
+https://gallery.azure.ai/Experiment/Text-Classification-Step-1-of-5-data-preparation-3
+
